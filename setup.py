@@ -4,7 +4,7 @@ setup(
     name='xenon_worker',
     version='0.0.1',
     description='Small Library for building a discord bot on top of rabbitmq',
-    url='git@github.com:Magic-Bots/xenon-worker',
+    url='git@github.com:Xenon-Bot/xenon-worker',
     author='Merlintor',
     license='MIT',
     packages=find_packages(),
