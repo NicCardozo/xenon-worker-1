@@ -13,7 +13,7 @@ setup(
         "aiohttp==3.6.2",
         "aiormq==3.2.0",
         "motor==2.1.0",
-        "ujson==1.34",
+        "ujson",
         "msgpack==1.0.0",
         'aioredis>=1.3.1'
     ]
